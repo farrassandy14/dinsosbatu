@@ -16,4 +16,3 @@ class DashboardController extends Controller
         return view('admin.dashboard', compact('totalLansia','totalKec','totalDesa'));
     }
 }
-// Test 1
